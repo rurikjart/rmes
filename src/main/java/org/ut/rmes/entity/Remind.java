@@ -7,7 +7,7 @@ import javax.persistence.*;
 import java.util.Date;
 
 @Entity
-@Table(name = "reminddb")
+@Table(name = "remind")
 public class Remind {
 
     @Id
@@ -15,10 +15,10 @@ public class Remind {
     @GenericGenerator(name = "increment", strategy = "increment")
     private long id;
 
-    @Column(name = "titledb", nullable = false, length = 50)
+    @Column(name = "title", nullable = false, length = 50)
     private  String title;
 
-    @Column(name = "remind_datedb", nullable = false)
+    @Column(name = "remind_date", nullable = false)
     private Date remindDate;
 
 
