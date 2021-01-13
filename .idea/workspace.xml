@@ -24,76 +24,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14409aae-b152-431e-910f-090693d207e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/RMeS_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/RMeS_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_0_pr2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_0_pr2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_0_pr2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_4_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20160212.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ut/rmes/controller/RemindController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ut/rmes/repository/RemindRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ut/rmes/service/RemindServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ut/rmes/service/ReminderService.java" afterDir="false" />
+    <list default="true" id="14409aae-b152-431e-910f-090693d207e0" name="Default Changelist" comment="Tech Commit">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RMeS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RMeS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ut/rmes/ApplicationInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ut/rmes/ApplicationInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ut/rmes/config/DatabaseConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ut/rmes/config/DatabaseConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ut/rmes/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ut/rmes/config/WebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ut/rmes/controller/ReminderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ut/rmes/entity/Remind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ut/rmes/entity/Remind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,8 +151,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610551805971</updated>
-      <workItem from="1610551831044" duration="9737000" />
+      <workItem from="1610551831044" duration="10280000" />
     </task>
+    <task id="LOCAL-00001" summary="Урок 5. Конфигурация Entity и создание таблицы в БД&#10;Урок 6. Создание простого REST сервиса&#10;Урок 7. Создание первого Spring Repository&#10;Урок 8. Разделение логики и завершение API">
+      <created>1610571397335</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610571397335</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tech Commit">
+      <created>1610571633461</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610571633461</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +183,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Урок 5. Конфигурация Entity и создание таблицы в БД&#10;Урок 6. Создание простого REST сервиса&#10;Урок 7. Создание первого Spring Repository&#10;Урок 8. Разделение логики и завершение API" />
+    <MESSAGE value="Tech Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tech Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1067" y="362" key="#BuildArtifactsBeforeRunChooser" timestamp="1610555556183">
@@ -253,73 +206,77 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1017" y="196" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1920.1040@0.0.1920.1040" timestamp="1610554497296" />
-    <state width="730" height="286" key="GridCell.Tab.0.bottom" timestamp="1610570202996">
+    <state width="1293" height="202" key="GridCell.Tab.0.bottom" timestamp="1610571649844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="730" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610570202996" />
-    <state width="730" height="286" key="GridCell.Tab.0.center" timestamp="1610570202996">
+    <state width="1293" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610571649844" />
+    <state width="1293" height="202" key="GridCell.Tab.0.center" timestamp="1610571649844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="730" height="286" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610570202996" />
-    <state width="730" height="286" key="GridCell.Tab.0.left" timestamp="1610570202996">
+    <state width="1293" height="202" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610571649844" />
+    <state width="1293" height="202" key="GridCell.Tab.0.left" timestamp="1610571649844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="730" height="286" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610570202996" />
-    <state width="730" height="286" key="GridCell.Tab.0.right" timestamp="1610570202996">
+    <state width="1293" height="202" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610571649844" />
+    <state width="1293" height="202" key="GridCell.Tab.0.right" timestamp="1610571649844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="730" height="286" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610570202996" />
-    <state width="730" height="286" key="GridCell.Tab.1.bottom" timestamp="1610570202998">
+    <state width="1293" height="202" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610571649844" />
+    <state width="1293" height="202" key="GridCell.Tab.1.bottom" timestamp="1610571649846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="730" height="286" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610570202998" />
-    <state width="730" height="286" key="GridCell.Tab.1.center" timestamp="1610570202996">
+    <state width="1293" height="202" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610571649846" />
+    <state width="1293" height="202" key="GridCell.Tab.1.center" timestamp="1610571649844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="730" height="286" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610570202996" />
-    <state width="730" height="286" key="GridCell.Tab.1.left" timestamp="1610570202996">
+    <state width="1293" height="202" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610571649844" />
+    <state width="1293" height="202" key="GridCell.Tab.1.left" timestamp="1610571649844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="730" height="286" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610570202996" />
-    <state width="730" height="286" key="GridCell.Tab.1.right" timestamp="1610570202996">
+    <state width="1293" height="202" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610571649844" />
+    <state width="1293" height="202" key="GridCell.Tab.1.right" timestamp="1610571649844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="730" height="286" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610570202996" />
-    <state width="730" height="286" key="GridCell.Tab.2.bottom" timestamp="1610570202998">
+    <state width="1293" height="202" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610571649844" />
+    <state width="1293" height="202" key="GridCell.Tab.2.bottom" timestamp="1610571649846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="730" height="286" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610570202998" />
-    <state width="730" height="286" key="GridCell.Tab.2.center" timestamp="1610570202998">
+    <state width="1293" height="202" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610571649846" />
+    <state width="1293" height="202" key="GridCell.Tab.2.center" timestamp="1610571649846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="730" height="286" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610570202998" />
-    <state width="730" height="286" key="GridCell.Tab.2.left" timestamp="1610570202998">
+    <state width="1293" height="202" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610571649846" />
+    <state width="1293" height="202" key="GridCell.Tab.2.left" timestamp="1610571649846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="730" height="286" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610570202998" />
-    <state width="730" height="286" key="GridCell.Tab.2.right" timestamp="1610570202998">
+    <state width="1293" height="202" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610571649846" />
+    <state width="1293" height="202" key="GridCell.Tab.2.right" timestamp="1610571649846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="730" height="286" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610570202998" />
-    <state width="730" height="286" key="GridCell.Tab.3.bottom" timestamp="1610570202998">
+    <state width="1293" height="202" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610571649846" />
+    <state width="1293" height="202" key="GridCell.Tab.3.bottom" timestamp="1610571649847">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="730" height="286" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610570202998" />
-    <state width="730" height="286" key="GridCell.Tab.3.center" timestamp="1610570202998">
+    <state width="1293" height="202" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610571649847" />
+    <state width="1293" height="202" key="GridCell.Tab.3.center" timestamp="1610571649847">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="730" height="286" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610570202998" />
-    <state width="730" height="286" key="GridCell.Tab.3.left" timestamp="1610570202998">
+    <state width="1293" height="202" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610571649847" />
+    <state width="1293" height="202" key="GridCell.Tab.3.left" timestamp="1610571649847">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="730" height="286" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610570202998" />
-    <state width="730" height="286" key="GridCell.Tab.3.right" timestamp="1610570202998">
+    <state width="1293" height="202" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610571649847" />
+    <state width="1293" height="202" key="GridCell.Tab.3.right" timestamp="1610571649847">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="730" height="286" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610570202998" />
+    <state width="1293" height="202" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610571649847" />
     <state x="91" y="178" key="Maven.ArtifactSearchDialog" timestamp="1610568658868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="91" y="178" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610568658868" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1610571413961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610571413961" />
   </component>
 </project>
