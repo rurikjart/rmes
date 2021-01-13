@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RMeS:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>RMeS</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="org.ut.rmes-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="RMeS:war exploded" />
+    </root>
+  </artifact>
+</component>
